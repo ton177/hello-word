@@ -1,2 +1,2 @@
 # hello-word
-teste git
+this is a test for git!
